@@ -55,7 +55,7 @@ Feel free to contact me :
 <a href="https://twitter.com/shivrajtaware04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivrajtaware04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivrajtaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivrajtaware" height="30" width="40" /></a>
 <a href="https://instagram.com/shivrajtaware.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivrajtaware.04" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shivraj taware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivraj taware" height="30" width="40" /></a>
+<a href="https://youtube.com/@shivrajtaware?si=Qcsx9X8BiF0dDOwb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivraj taware" height="30" width="40" /></a>
 </p>
 
 ###
