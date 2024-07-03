@@ -39,7 +39,9 @@
 
 ## GitHub Stats 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivraj110504&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivraj110504&theme=radical" alt="GitHub Streak Stats"/>
+</p>
 
 
 
