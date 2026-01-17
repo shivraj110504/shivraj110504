@@ -40,10 +40,12 @@
 ## GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivraj110504&theme=radical" alt="GitHub Streak Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=shivraj110504&theme=dark" alt="GitHub Streak"/>
+  </a>
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivraj110504&theme=react-dark)](https://github.com/shivraj110504)
 
 ###
 
