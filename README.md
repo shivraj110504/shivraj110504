@@ -4,7 +4,7 @@
 ## About Me ℹ️
 - 🔭 I’m currently persuing **BE in Information Technology. (SPPU)**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 Actively working with **Java**, with hands-on experience in AI-based projects
 
 - ⚡ Additionally, I create educational content on engineering.
 
@@ -14,38 +14,35 @@
 <p align="left">• Programming Languages : </p>
 
 ###
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-###
-###
-
-<p align="left">• Tools & Technologies : </p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
+<div align="cleft">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,py" />
 </div>
 
+
+###
+###
+
+<p align="left">• Tools & Technologies :</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,gitlab,docker,react,nextjs,spring,supabase,firebase,mysql,mongodb,postman,figma,vscode,idea" />
+</div>
+
+
+###
 ###
 
 
 ## GitHub Stats 📊
 
 <p align="center">
-  <a href="https://github.com/shivraj110504">
-    <img src="https://streak-stats.demolab.com/?user=shivraj110504&theme=dark" alt="GitHub Streak"/>
-  </a>
-</p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shivraj110504&theme=dark&hide_border=false" />
+</p><br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivraj110504&theme=react-dark)](https://github.com/shivraj110504)
+<br/>
+
+
 
 ###
 
